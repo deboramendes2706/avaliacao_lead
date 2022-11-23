@@ -7,14 +7,9 @@ CRITÉRIOS DE AVALIAÇÃO
     -> Escolha e implementação do modelo
     -> Otimização de hiper-parâmetros
     -> Acurácia
-    -> Escolha de métricas -> Pensar que preferimos falsos positivos do que falsos negativos
-                    é melhor apagarmos um comentário não ofensivo do que deixarmos um ofensivo sem ser apagado
+    -> Escolha de métricas
 
 3 - Script de classificação - 10 pontos
-    -> Utilizar arquivos do FastAPI
 
 4 - Gravação (15 minutos)
-    -> MOstrar o passo a passo da solução
-    -> Ensaiar!
-    -> Pedir p Elene gravar na quarta
 
