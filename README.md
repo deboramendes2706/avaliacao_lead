@@ -19,7 +19,7 @@
  
  ├──  [config_links.py](config_links.py) -> Arquivo utlizado para configurar todos os caminhos dos arquivos utilizados durante o projeto.
  
- ├──  [functions.py](functions.py]) -> Arquivo onde armazenamos todas as funções utilizadas no projeto.
+ ├──  [functions.py](functions.py) -> Arquivo onde armazenamos todas as funções utilizadas no projeto.
  
  ├──  [script_de_classificação.py](script_de_classificação.py) -> Arquivo contendo o passo a passo para a leitura de um arquivo csv,contendo dados de teste, utilizando o melhor modelo e o melhor processamento definidos.
  
