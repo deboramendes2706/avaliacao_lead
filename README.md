@@ -3,7 +3,7 @@
  O projeto desenvolvido nessa avaliação consta na leitura de comentários do twitter, que estão armazenado em um arquivo do tipo csv, e na predição da toxicidade deles, tal forma que, podem ser tóxicos ou não tóxicos.
  
 ## Organização do repositório
- ├──  [data](data) -> Pasta contendo os arquivos salvos durante a execução dos códigos desenvolvidos no projeto.
+ ├──  [data](data) -> Pasta contendo os arquivos salvos durante a execução dos códigos desenvolvidos no projeto e arquivos necessários para essa execução.
    - [arquivos_resultados](/data/arquivos_resultados) -> Pasta contendo todos os arquivos csv salvos durante a execução do código
      - [Arquivo csv com os resultados da análise de todas as colunas, criadas à partir dos pré-processamentos, utilizando o melhor modelo](data/arquivos_resultados/df_total_results.csv)
      - Todos os outros arquivos são os resultados da análise de cada coluna pré-processada
