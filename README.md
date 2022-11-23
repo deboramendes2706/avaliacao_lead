@@ -1,6 +1,6 @@
 # Avaliacao_lead
  ### Descrição do projeto
- O projeto desenvolvido nessa avaliação consta na leitura de comentários do twitter, que estão armazenado em um arquivo do tipo csv, e na predição da toxicidade deles, tal forma que, podem ser tóxicos ou não tóxicos.
+ O projeto desenvolvido nessa avaliação consta na leitura de comentários do twitter, que estão armazenado em um arquivo do tipo csv, e na predição da toxicidade deles, de tal forma que, podem ser tóxicos ou não tóxicos.
  
 ## Organização do repositório
  ├──  [data](data) -> Pasta contendo os arquivos salvos durante a execução dos códigos desenvolvidos no projeto e arquivos necessários para essa execução.
