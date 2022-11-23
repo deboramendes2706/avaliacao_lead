@@ -1,0 +1,11 @@
+Modelo,acc,F1-score
+Bayes_BOW_comment_text,0.8413333333333334,0.8896103896103895
+Bayes_BOW_comments_no_ponctuation,0.84,0.8886827458256029
+Bayes_BOW_total_treated_comments,0.822,0.8792401628222523
+Bayes_BOW_comments_no_stopwords,0.828,0.881651376146789
+Bayes_BOW_lemm_comments,0.84,0.8883720930232558
+Bayes_BOW_stemm_comments,0.8426666666666667,0.8896164639850328
+Bayes_BOW_lemm_comments_and_stemm_comments,0.842,0.8890968647636873
+Bayes_BOW_comments_no_ponctuation_no_stop_words,0.828,0.8820840950639854
+Bayes_BOW_comments_lemm_stemm_no_stop_words,0.84,0.8892988929889298
+Bayes_BOW_comments_lemm_stemm_no_ponctuation,0.8393333333333334,0.8874357776739841

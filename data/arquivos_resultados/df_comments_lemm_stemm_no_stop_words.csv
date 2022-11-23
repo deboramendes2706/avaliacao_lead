@@ -1,0 +1,2 @@
+Modelo,acc,F1-score
+Bayes_BOW_comments_lemm_stemm_no_stop_words,0.84,0.8892988929889298
